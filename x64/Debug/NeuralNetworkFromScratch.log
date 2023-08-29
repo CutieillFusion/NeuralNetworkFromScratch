@@ -1,0 +1,3 @@
+﻿  AI.cpp
+A:\Programs\NeuralNetworkFromScratch\AI.cpp(229,16): warning C4018: '<': signed/unsigned mismatch
+  NeuralNetworkFromScratch.vcxproj -> A:\Programs\NeuralNetworkFromScratch\x64\Debug\NeuralNetworkFromScratch.exe

@@ -1,0 +1,1 @@
+A:\Programs\NeuralNetworkFromScratch\x64\Debug\NeuralNetworkFromScratch.exe
